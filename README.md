@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrutha Dinesh</h1>
-<h3 align="center">I'm an Alladin with a lamp left with only ideas and wishes. Had Tech been my Genie🤩</h3>
+<h3 align="center">Still figuring things out</h3>
 
 - 🔭 I’m currently working on **Improving my Design skills**
 
