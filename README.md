@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrutha Dinesh</h1>
 <h3 align="center">I'm an Alladin with a lamp left with only ideas and wishes. Had Tech been my Genie🤩</h3>
 
-- 🔭 I’m currently working on **An automatic physics question solver and generator**
+- 🔭 I’m currently working on **Improving my Design skills**
 
-- 👯 I’m looking to collaborate on **Math/Physic problem solver app**
+- 👯 I’m looking forward to find a **Mentor**
 
 - 📫 How to reach me **vpamrutha197@gmail.com**
 
