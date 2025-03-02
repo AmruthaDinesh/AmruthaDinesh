@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrutha Dinesh</h1>
 <h3 align="center">Still figuring things out</h3>
 
-- 🔭 I’m currently working on **Getting a job on a full time basis**
+- 🔭 I’m currently working on ** Automating tasks using Gen AI**
 
 - 📫 How to reach me **vpamrutha197@gmail.com**
 
